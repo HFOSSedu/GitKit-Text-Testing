@@ -11,8 +11,10 @@
         Note that you are currently viewing the
         <term component="abc">GitKit (VSCode Edition)</term>
         <term component="abc123">GitKit (Linux Desktop Edition)</term>
-
         .
+
+        <p component="abc">Include this only in version ver abc</p>
+        <p component="abc123">Include this only in version ver abc123</p>
       </p>
 
       The GitKit provides an introduction to the fundamental skills and concepts used in collaborative Free and Open Source Software (FOSS) development.
