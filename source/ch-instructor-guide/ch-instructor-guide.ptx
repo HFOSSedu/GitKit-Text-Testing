@@ -7,6 +7,14 @@
 
   <introduction>
     <p>
+      <p>
+        Note that you are currently viewing the 
+        <term component="vscode-kit-client">GitKit (VSCode Edition)</term>
+        <term component="linux-kit-client">GitKit (Linux Desktop Edition)</term>
+
+        .
+      </p>
+
       The GitKit provides an introduction to the fundamental skills and concepts used in collaborative Free and Open Source Software (FOSS) development.
       It introduces Git and GitHub basics, and gives learners the experience of using the <url href="https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow">forking workflow</url> to contribute to a FOSS project.
     </p>
