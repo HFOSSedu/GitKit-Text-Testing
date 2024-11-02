@@ -9,8 +9,8 @@
     <p>
       <p>
         Note that you are currently viewing the 
-        <term >GitKit (VSCode Edition)</term>
-        <term >GitKit (Linux Desktop Edition)</term>
+        <term component="abc123">GitKit (VSCode Edition)</term>
+        <term component="abc123">GitKit (Linux Desktop Edition)</term>
 
         .
       </p>
